@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Editor junk
+.vscode/
+
+# Compiled binaries
+*.o
+*.a
+*.so
+app
